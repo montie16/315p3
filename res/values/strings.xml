@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startButton">Start</string>
+    <string name="instructionsButton">Instructions</string>
+    <string name="highScoreButton">High Scores</string>
+    <string name="appTitle">Molecule Mania</string>
+    <string name="app_name">315p3</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display_game">DisplayGameActivity</string>
+    <string name="title_activity_instruction">InstructionActivity</string>
+    <string name="title_activity_high_schore">HighSchoreActivity</string>
+    <string name="title_activity_high_score">HighScoreActivity</string>
+
+</resources>
